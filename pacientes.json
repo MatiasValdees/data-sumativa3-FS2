@@ -1,0 +1,84 @@
+{
+  "pacientes": [
+    {
+      "rut": "11111111-1",
+      "nombres": "Camila",
+      "apellido": "Sánchez",
+      "correo": "camila.sanchez@email.com",
+      "telefono": "+56911111111",
+      "contrasena": "camila123"
+    },
+    {
+      "rut": "22222222-2",
+      "nombres": "Tomás",
+      "apellido": "Gómez",
+      "correo": "tomas.gomez@email.com",
+      "telefono": "+56922222222",
+      "contrasena": "tomas456"
+    },
+    {
+      "rut": "33333333-3",
+      "nombres": "Francisca",
+      "apellido": "Rojas",
+      "correo": "francisca.rojas@email.com",
+      "telefono": "+56933333333",
+      "contrasena": "fran789"
+    },
+    {
+      "rut": "44444444-4",
+      "nombres": "Felipe",
+      "apellido": "Martínez",
+      "correo": "felipe.martinez@email.com",
+      "telefono": "+56944444444",
+      "contrasena": "felipe321"
+    },
+    {
+      "rut": "55555555-5",
+      "nombres": "Josefa",
+      "apellido": "Castro",
+      "correo": "josefa.castro@email.com",
+      "telefono": "+56955555555",
+      "contrasena": "josefa654"
+    },
+    {
+      "rut": "66666666-6",
+      "nombres": "Ignacio",
+      "apellido": "Morales",
+      "correo": "ignacio.morales@email.com",
+      "telefono": "+56966666666",
+      "contrasena": "nacho987"
+    },
+    {
+      "rut": "77777777-7",
+      "nombres": "Valentina",
+      "apellido": "Pizarro",
+      "correo": "valentina.pizarro@email.com",
+      "telefono": "+56977777777",
+      "contrasena": "vale159"
+    },
+    {
+      "rut": "88888888-8",
+      "nombres": "Benjamín",
+      "apellido": "Fuentes",
+      "correo": "benjamin.fuentes@email.com",
+      "telefono": "+56988888888",
+      "contrasena": "ben2024"
+    },
+    {
+      "rut": "99999999-9",
+      "nombres": "Isidora",
+      "apellido": "Navarro",
+      "correo": "isidora.navarro@email.com",
+      "telefono": "+56999999999",
+      "contrasena": "isi246"
+    },
+    {
+      "rut": "10101010-0",
+      "nombres": "Cristóbal",
+      "apellido": "Reyes",
+      "correo": "cristobal.reyes@email.com",
+      "telefono": "+56910101010",
+      "contrasena": "cris135"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "doctores": [
+    {
+      "rut": "12345678-9",
+      "nombres": "Matías",
+      "apellidoPaterno": "Valdés",
+      "apellidoMaterno": "Rojas",
+      "correo": "matias.valdes@clinica.cl",
+      "telefono": "+56912345678",
+      "especialidad": "Cardiología"
+    },
+    {
+      "rut": "98765432-1",
+      "nombres": "Laura",
+      "apellidoPaterno": "Méndez",
+      "apellidoMaterno": "García",
+      "correo": "laura.mendez@clinica.cl",
+      "telefono": "+56987654321",
+      "especialidad": "Dermatología"
+    },
+    {
+      "rut": "19283746-5",
+      "nombres": "Carlos",
+      "apellidoPaterno": "Pérez",
+      "apellidoMaterno": "Soto",
+      "correo": "carlos.perez@clinica.cl",
+      "telefono": "+56919283746",
+      "especialidad": "Pediatría"
+    },
+    {
+      "rut": "56473829-4",
+      "nombres": "Ana",
+      "apellidoPaterno": "Torres",
+      "apellidoMaterno": "Muñoz",
+      "correo": "ana.torres@clinica.cl",
+      "telefono": "+56956473829",
+      "especialidad": "Ginecología"
+    },
+    {
+      "rut": "34567890-2",
+      "nombres": "José",
+      "apellidoPaterno": "Ramírez",
+      "apellidoMaterno": "Navarro",
+      "correo": "jose.ramirez@clinica.cl",
+      "telefono": "+56934567890",
+      "especialidad": "Neurología"
+    },
+    {
+      "rut": "23456789-0",
+      "nombres": "Paula",
+      "apellidoPaterno": "Salinas",
+      "apellidoMaterno": "Fuentes",
+      "correo": "paula.salinas@clinica.cl",
+      "telefono": "+56923456789",
+      "especialidad": "Traumatología"
+    },
+    {
+      "rut": "87654321-9",
+      "nombres": "Rodrigo",
+      "apellidoPaterno": "Martínez",
+      "apellidoMaterno": "Ortega",
+      "correo": "rodrigo.martinez@clinica.cl",
+      "telefono": "+56987654321",
+      "especialidad": "Otorrinolaringología"
+    },
+    {
+      "rut": "11223344-5",
+      "nombres": "Marcela",
+      "apellidoPaterno": "López",
+      "apellidoMaterno": "Alvarado",
+      "correo": "marcela.lopez@clinica.cl",
+      "telefono": "+56911223344",
+      "especialidad": "Psiquiatría"
+    },
+    {
+      "rut": "66554433-2",
+      "nombres": "Diego",
+      "apellidoPaterno": "Vega",
+      "apellidoMaterno": "Campos",
+      "correo": "diego.vega@clinica.cl",
+      "telefono": "+56966554433",
+      "especialidad": "Oncología"
+    },
+    {
+      "rut": "77889900-1",
+      "nombres": "Fernanda",
+      "apellidoPaterno": "Castillo",
+      "apellidoMaterno": "Pizarro",
+      "correo": "fernanda.castillo@clinica.cl",
+      "telefono": "+56977889900",
+      "especialidad": "Endocrinología"
+    }
+  ]
+}
